@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tony
-- 👀 I’m interested in software development
+- 👀 I’m a software engineer at ANZx - a leading virtual bank in Australia
 - ✨ I've 2+ years of development experience across multiple global software company
 - 🌱 I’m currently pursuing master of software engineering in the University of Melbourne
 - 💞️ I've been selected by Microsoft and Amazon to join their selective student programs
