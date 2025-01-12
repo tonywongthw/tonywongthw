@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tony
-- 👀 I’m a software engineer at ANZx - a leading virtual bank in Australia
+- 👀 I’m a software engineer at ANZx - a leading mobile banking app in Australia
 - ✨ I've multiple years of development experience across global software companies
 - 🌱 I've completed masters of software engineering with distinction in the University of Melbourne
 - 💞️ I've been invited by Microsoft and Amazon to their selective student programs
